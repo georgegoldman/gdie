@@ -1,0 +1,8 @@
+Package: gdie
+Version: 0.1.0
+Section: utility
+Priority: optional
+Architecture: amd64
+Depends: libgtk-4-1
+Maintainer: Onyedikachi George-Goldman John georgegoldmanjohn.o@gmail.com
+Description: Google Drive ID Extractor - A simple GTK tool to extract file IDs from Google Drive links.

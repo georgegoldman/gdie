@@ -1,0 +1,16 @@
+[package]
+name = "gdie"
+version = "0.1.0"
+edition = "2021"
+authors = ["George-Goldman georgegoldmanjohn.o@gmail.com"]
+license = "MIT"
+description = "A simple GTK app to extract Google Drive file IDs"
+homepage = "https://github.com/georgegoldman/gdie"
+repository = "https://github.com/georgegoldman/gdie"
+keywords = ["gtk", "google-drive", "id-extractor"]
+categories = ["gui", "utilities"]
+
+[dependencies]
+gtk4 = "0.9.6"  # Specifying exact version
+glib = "0.20.9" # Match the version used by gtk4
+regex = "1"

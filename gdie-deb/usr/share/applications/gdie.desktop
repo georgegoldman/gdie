@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Drive ID Extractor
+Exec=/usr/local/bin/gdie
+Icon=gdie
+Type=Application
+Categories=Utility;
+Terminal=false
