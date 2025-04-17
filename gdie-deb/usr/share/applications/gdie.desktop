@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Google Drive ID Extractor
+Name=GDIE
 Exec=/usr/local/bin/gdie
 Icon=gdie
 Type=Application
