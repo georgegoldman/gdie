@@ -13,9 +13,13 @@ A simple GTK application to extract file IDs from Google Drive links.
 
 ## Installation
 
-### 1. **Download the `.deb` Package**
+### 1. 📦 Download
 
-For easy installation, download the `.deb` package from the [releases page](https://github.com/georgegoldman/gdie/releases).
+[➡️ Download GDie .deb Package (v0.1.0)](https://github.com/georgegoldman/gdie/releases/download/v1.0.2/gdie-deb.deb)
+
+```bash
+sudo dpkg -i gdie-deb.deb
+```
 
 ### 2. **Install the Package**
 
